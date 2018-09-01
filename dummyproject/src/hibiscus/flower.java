@@ -7,5 +7,6 @@ public class flower {
 		
 		System.out.println("Flower Class");
 		System.out.println("New line 2");
+		System.out.println("New line 3");
 	}
 }
